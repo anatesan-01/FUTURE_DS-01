@@ -133,7 +133,6 @@ Task_03/
 
 ---
 
-## 👨‍💻 Author
 
 Future Intern – Data Science Task_03
 
